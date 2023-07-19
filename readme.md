@@ -2,9 +2,13 @@
 
 original icons can be found [here](https://github.com/cubing/icons)
 
+### modified icons:
+![demo](https://github.com/pdtxie/pixel-perfect-cube-icons/assets/65262710/eaef747a-77a7-4df3-a9d5-31469563131d)
+
+
 ### what's different?
-- the cubes are actually square (none of the wca icons are actually squares! either too wide or too tall)
-- mega redrawn as current icon is not straight, has random paths, corners aren't corners, etc...
+- the cubes are actually square (none of the wca icons are actually squares! they were either too wide or too tall :( )
+- mega redrawn as current icon is not straight, has random paths, corners aren't corners, and various other inconsistencies
 - fmc and mbld icons rescaled to be more inline with the other icons
 
 
