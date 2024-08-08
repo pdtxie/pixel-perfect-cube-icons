@@ -12,6 +12,10 @@ original icons can be found [here](https://github.com/cubing/icons)
 - fmc and mbld icons rescaled to be more inline with the other icons
 
 
+### used in
+- [CubeClubs NZ](https://cubeclubs.nz)
+- [CubeTime](https://cubetime.app)
+
 ### details
 - 24px x 24px bounded icons
 - meets m3 icon guideline with max 20px x 20px live area
